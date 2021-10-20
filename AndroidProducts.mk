@@ -5,4 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/styx_rosy.mk
+    $(LOCAL_DIR)/styx_rosy.mk \
+    $(LOCAL_DIR)/rosy.mk
